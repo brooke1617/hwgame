@@ -1,0 +1,16 @@
+h1 {
+    background: orange;
+    font-size: 50px;
+    color: purple;
+    text-align: center
+}
+
+body{
+    background: turquoise;
+}
+
+p {
+    background: yellow;
+    color: purple;
+    font-size: 25px;
+}
